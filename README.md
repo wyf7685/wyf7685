@@ -4,7 +4,9 @@
 
 #### Statistical Data
 
-![wyf7685's github stats](https://github-readme-stats.vercel.app/api?username=wyf7685&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
+![wyf7685's github stats](https://github-readme-stats.vercel.app/api?username=wyf7685&show_icons=true&theme=transparent)
+
+![wyf7685's language](https://github-readme-stats.vercel.app/api/top-langs/?username=wyf7685&layout=compact&theme=transparent)
 
 #### Programming Language
 
