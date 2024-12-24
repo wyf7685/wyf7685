@@ -1,6 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=wyf7685&fontSize=60)
-
 # Hi there 👋
+
+<div align="center">
+  
+  ![:counter](https://count.getloli.com/@gh-wyf7685-wyf7685)
+  
+</div>
 
 #### Statistical Data
 
