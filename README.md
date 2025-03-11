@@ -30,6 +30,10 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 -->
 
+#### osu!lazer
+
+![osu!lazer](https://osu-sig.vercel.app/card?user=37332506&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
