@@ -10,8 +10,8 @@
 
 ![wyf7685's github stats](https://github-readme-stats.vercel.app/api?username=wyf7685&show_icons=true&theme=transparent)
 
-![wyf7685's productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyf7685&theme=github&utcOffset=8)
-![wyf7685's language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wyf7685&theme=github)
+![wyf7685's productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyf7685&theme=transparent&utcOffset=8)
+![wyf7685's language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wyf7685&theme=transparent)
 
 #### Programming Language
 
@@ -30,6 +30,10 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 -->
+
+#### Wakatime
+
+![wyf7685's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wyf7685&layout=compact&theme=transparent)
 
 #### osu!lazer
 
