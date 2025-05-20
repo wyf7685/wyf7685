@@ -33,6 +33,8 @@
 
 #### Wakatime
 
+[![wakatime](https://wakatime.com/badge/user/b097681b-c224-44ec-8e04-e1cf71744655.svg)](https://wakatime.com/@b097681b-c224-44ec-8e04-e1cf71744655)
+
 ![wyf7685's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wyf7685&layout=compact&theme=transparent)
 
 #### osu!lazer
