@@ -8,7 +8,13 @@
 
 #### Statistical Data
 
-![wyf7685's github stats](https://github-readme-stats.vercel.app/api?username=wyf7685&show_icons=true&theme=transparent)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=69091901" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=69091901&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @wyf7685" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=69091901&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ![wyf7685's productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyf7685&theme=transparent&utcOffset=8)
 ![wyf7685's language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wyf7685&theme=transparent)
