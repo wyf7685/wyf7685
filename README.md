@@ -34,7 +34,8 @@
 
 #### osu!lazer
 
-[![osu!lazer](https://osu-sig.vercel.app/card?user=37332506&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/37332506)
+[![osu!lazer - std](https://osu-sig.vercel.app/card?user=37332506&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/37332506/osu)
+[![osu!lazer - mania](https://osu-sig.s23.moe/card?user=37332506&mode=mania&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/37332506/mania)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
