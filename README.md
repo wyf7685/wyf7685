@@ -16,9 +16,6 @@
 </a>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-![wyf7685's productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyf7685&theme=transparent&utcOffset=8)
-![wyf7685's language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wyf7685&theme=transparent)
-
 #### Languages
 
 [![My Language](https://skillicons.dev/icons?i=py,ts,vue,js,html,css)](https://skillicons.dev)
